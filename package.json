@@ -16,9 +16,10 @@
         }
     },
     "scripts": {
-        "monaca:preview": "npm run dev",
-        "dev": "browser-sync start -s www/ --watch --port 8080 --ui-port 8081"
-    },
+  "monaca:preview": "npm run dev",
+  "dev": "browser-sync start --no-open -s www/ --watch --port 8080 --ui-port 8081",
+  "deploy": "gh-pages -d www"
+},
     "devDependencies": {
         "browser-sync": "^2.26.7",
         "cordova": "^9.0.0"
