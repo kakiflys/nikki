@@ -15,6 +15,28 @@
   <link rel="stylesheet" href="css/style.css">
 
   <script>
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.1.2/firebase-app.js";
+// Import the functions you need from the SDKs you need
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyDxajL_H1AkSW6Bc12q_2y1Gaq6CI9sdxw",
+  authDomain: "nikkiapp-a6e33.firebaseapp.com",
+  databaseURL: "https://nikkiapp-a6e33-default-rtdb.firebaseio.com",
+  projectId: "nikkiapp-a6e33",
+  storageBucket: "nikkiapp-a6e33.appspot.com",
+  messagingSenderId: "306411959281",
+  appId: "1:306411959281:web:41ce6374eb092537eeca50",
+  measurementId: "G-YWQG30TQ4F"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
+
     ons.ready(function() {
       console.log("Onsen UI is ready!");
     });
