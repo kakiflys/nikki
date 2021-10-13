@@ -4,11 +4,7 @@
     "ignore": [
       "firebase.json",
       "**/.*",
-      "**/node_modules/**",
-      "res/**",
-      ".monaca/**",
-      "LICENSE",
-      "config.xml"
+      "**/node_modules/**"
     ],
     "rewrites": [
       {
