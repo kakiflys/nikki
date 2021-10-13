@@ -1,0 +1,62 @@
+[debug] [2021-10-13T11:50:54.141Z] ----------------------------------------------------------------------
+[debug] [2021-10-13T11:50:54.147Z] Command:       /opt/node-v10.15.3/bin/node /home/terminaluser/.npm-global/bin/firebase login
+[debug] [2021-10-13T11:50:54.148Z] CLI Version:   9.20.0
+[debug] [2021-10-13T11:50:54.149Z] Platform:      linux
+[debug] [2021-10-13T11:50:54.149Z] Node Version:  v10.15.3
+[debug] [2021-10-13T11:50:54.149Z] Time:          Wed Oct 13 2021 11:50:54 GMT+0000 (Coordinated Universal Time)
+[debug] [2021-10-13T11:50:54.149Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=642296726&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2021-10-13T11:58:28.131Z] ----------------------------------------------------------------------
+[debug] [2021-10-13T11:58:28.135Z] Command:       /opt/node-v10.15.3/bin/node /home/terminaluser/.npm-global/bin/firebase login
+[debug] [2021-10-13T11:58:28.136Z] CLI Version:   9.20.0
+[debug] [2021-10-13T11:58:28.136Z] Platform:      linux
+[debug] [2021-10-13T11:58:28.136Z] Node Version:  v10.15.3
+[debug] [2021-10-13T11:58:28.136Z] Time:          Wed Oct 13 2021 11:58:28 GMT+0000 (Coordinated Universal Time)
+[debug] [2021-10-13T11:58:28.136Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=852377909&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2021-10-13T12:18:54.353Z] ----------------------------------------------------------------------
+[debug] [2021-10-13T12:18:54.357Z] Command:       /opt/node-v10.15.3/bin/node /home/terminaluser/.npm-global/bin/firebase login
+[debug] [2021-10-13T12:18:54.358Z] CLI Version:   9.20.0
+[debug] [2021-10-13T12:18:54.358Z] Platform:      linux
+[debug] [2021-10-13T12:18:54.358Z] Node Version:  v10.15.3
+[debug] [2021-10-13T12:18:54.358Z] Time:          Wed Oct 13 2021 12:18:54 GMT+0000 (Coordinated Universal Time)
+[debug] [2021-10-13T12:18:54.358Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=664098894&redirect_uri=http%3A%2F%2Flocalhost%3A9006
+[info] 
+[info] Waiting for authentication...
+[debug] [2021-10-13T12:27:06.024Z] ----------------------------------------------------------------------
+[debug] [2021-10-13T12:27:06.030Z] Command:       /opt/node-v10.15.3/bin/node /home/terminaluser/.npm-global/bin/firebase projects:list
+[debug] [2021-10-13T12:27:06.030Z] CLI Version:   9.20.0
+[debug] [2021-10-13T12:27:06.031Z] Platform:      linux
+[debug] [2021-10-13T12:27:06.031Z] Node Version:  v10.15.3
+[debug] [2021-10-13T12:27:06.031Z] Time:          Wed Oct 13 2021 12:27:06 GMT+0000 (Coordinated Universal Time)
+[debug] [2021-10-13T12:27:06.031Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-10-13T12:27:06.134Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-10-13T12:27:06.168Z] Error: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information.
+    at GoogleAuth.getApplicationDefaultAsync (/home/terminaluser/.npm-global/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:157:19)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[error] 
+[error] Error: Failed to authenticate, have you run firebase login?
